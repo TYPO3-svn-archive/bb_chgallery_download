@@ -1,0 +1,6 @@
+plugin.tx_chgallery_pi1 {
+	download_types=txt,jpg,gif,png
+	download_waittime=0
+	download_marker=Linkinhalt
+	
+}
